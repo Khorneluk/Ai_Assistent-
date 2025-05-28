@@ -1,6 +1,6 @@
 Ссылка на проект @PinkEpil_Bot 
 
-Скриншот https://github.com/Khorneluk/Ai_Assistent-/blob/main/photo_2025-05-28_22-57-56.jpg?raw=true
+[Скриншот] (https://github.com/Khorneluk/Ai_Assistent-/blob/main/photo_2025-05-28_22-57-56.jpg?raw=true)
 
 
 
